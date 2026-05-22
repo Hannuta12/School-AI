@@ -23,7 +23,7 @@ Bevor du ALICE benutzt, stelle sicher, dass du folgende Software installiert has
 ### Repository klonen
 
 ```powershell
-git clone https://github.com/Hannuta12/ALICE.git
+git clone https://github.com/Hannuta12/School-AI.git
 cd ALICE
 ```
 
@@ -128,8 +128,7 @@ ALICE/
 │   ├── index.html       # Chat-Oberfläche
 │   ├── script.js        # Frontend-Logik für Nachrichten und Streaming
 │   └── style.css        # Styling für das Chat-Interface
-├── README.md            # Diese Anleitung
-└── test.html            # Testseite
+└── README.md            # Diese Anleitung
 ```
 
 ## Erweiterte Optionen
@@ -140,7 +139,7 @@ ALICE/
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe LICENSE für Details.
+Dieses Projekt ist unter der Apache 2.0 lizenziert. Siehe LICENSE für Details.
 
 ## Hilfe
 
